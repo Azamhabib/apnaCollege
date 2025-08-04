@@ -1,4 +1,4 @@
 # apnaCollege
 my first repository
 <br>
-Author: Azam Habib
+Author: Azam Habib Ch
